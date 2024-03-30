@@ -1,1 +1,1 @@
-# YOHOHO.IO-ADMIN-COMMANDS
+Menu Toggle Key is "/"
